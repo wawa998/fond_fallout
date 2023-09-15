@@ -1,0 +1,56 @@
+$/**
+@name Nervozeus v2.3.1
+@version 2.3.1
+@description Your Name
+@author ChEaTerNerVozA
+@idea invalid-user
+@Contact: https://linktr.ee/cheaternervoza
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--background-image: url('https://images.alphacoders.com/132/1323668.jpeg');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: rgb(5, 5, 5);
+--popout-modal-blur: 1px;
+--popout-modal-size: cover;
+--popout-modal-position:  Top left;
+--home-button-image: url('https://images2.alphacoders.com/131/1314686.jpg');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.59;
+--left-brightness: 0.65;
+--middle-brightness: 0.3;
+--right-brightness: 0.6;
+--popout-modal-brightness: 0;
+--gradient-primary: 0,0,0,1;
+--gradient-secondary: 0,0,0,1;
+--gradient-direction: 185deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: rgb(255, 255, 255);
+--link-colour: #43eefa;
+--show-gift-gif-buttons: no-repeat;
+--update-notice-1: none;
+--HSL-server-icon-size: 50px;
+--HSL-server-spacing: 20px;
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 1px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 4px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 500%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #e30f0f;
+--rs-offline-color: #545f6d;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #d9ff00;
+--rs-phone-visible: block;
+-webkit-text-fill-color: chartreuse;
+}
